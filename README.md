@@ -21,6 +21,7 @@
 ### 1. Клонирование репозитория  
 ```bash
 git clone https://github.com/yyyeleshnur/kaspi-parser.git
+```
 cd kaspi-parser
 2. Установка зависимостей
 pip install -r requirements.txt
