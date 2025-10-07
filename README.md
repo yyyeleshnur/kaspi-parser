@@ -102,3 +102,4 @@ delivery
 Больше всего времени ушло на корректный парсинг таблицы продавцов
 
 Можно улучшить: автоматическое обновление данных, Docker контейнеризация
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/31494ca5-a1ee-4078-b2a1-c075a9f1eb8c" />
