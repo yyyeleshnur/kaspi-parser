@@ -1,0 +1,37 @@
+{
+    "title": "Вентилятор Азия Бренд Азия FS-45 черный",
+    "price": "Цена8400 ",
+    "rating": "",
+    "images": [
+        "https://resources.cdn-kaspi.kz/img/m/p/h9e/h3d/64363872747550.jpg?format=gallery-medium"
+    ],
+    "sellers": [
+        {
+            "Seller": "ИП \"ШЫНАР\"",
+            "SellerPrice": "8400 ",
+            "Delivery": "Доставка межгород, Чт, 9 октября, бесплатно"
+        },
+        {
+            "Seller": "ИП ГАДЖИЕВА",
+            "SellerPrice": "9000 ",
+            "Delivery": "Доставка, завтра, бесплатно, Самовывоз, сегодня"
+        },
+        {
+            "Seller": "Posuda_Shop",
+            "SellerPrice": "9100 ",
+            "Delivery": "Доставка межгород, Пт, 10 октября, бесплатно"
+        },
+        {
+            "Seller": "Sokany Official",
+            "SellerPrice": "9100 ",
+            "Delivery": "Доставка, Чт, 9 октября, бесплатно"
+        },
+        {
+            "Seller": "ALI_Brand",
+            "SellerPrice": "9290 ",
+            "Delivery": "Доставка межгород, Пт, 10 октября, бесплатно"
+        }
+    ],
+    "min_price": 8400,
+    "max_price": 9290
+}
