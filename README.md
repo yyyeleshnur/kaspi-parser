@@ -24,24 +24,26 @@ git clone https://github.com/yyyeleshnur/kaspi-parser.git
 ```
 cd kaspi-parser
 2. Установка зависимостей
+```bash
 pip install -r requirements.txt
+```
 3. Настройка окружения
 Создайте файл .env (если планируете использовать PostgreSQL) и укажите:
-
+```bash
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=kaspi
 DB_USER=postgres
 DB_PASSWORD=postgres
-
+```
 4. Запуск парсера
-
+```bash
 python parser.py
+```
 Данные сохраняются в app/export/product.json.
 
 📂 Структура проекта
-pgsql
-Копировать код
+```bash
 kaspi-parser/
 │── parser.py
 │── seed.json
@@ -55,9 +57,9 @@ kaspi-parser/
 │── Dockerfile
 │── requirements.txt
 │── README.md
-🗄️ PostgreSQL (опционально)
+```
 Пример таблиц:
-
+```bash
 products
 
 id
@@ -81,7 +83,7 @@ seller
 price
 
 delivery
-
+```
 🔄 Обновления данных
 В текущей версии обновление выполняется вручную через запуск парсера
 
